@@ -1,0 +1,13 @@
+body{}
+#datos_usuario{     display: inline-block;
+    list-style: none; }
+#datos_usuario li{float: left;width: 100%; border-bottom: 1px solid #cdcdcd;}
+.pull-left{float: left !important;}
+.pull-right{float: right !important;}
+.capa_oculta{
+	width: 60%;
+	overflow-x: auto;
+}
+.capa{
+	width: 100% !important;
+}

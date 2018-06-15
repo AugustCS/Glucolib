@@ -1,0 +1,120 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway:400,700,800';
+
+body{
+	overflow-x: hidden;
+	font-family: 'Raleway';
+	text-align: justify;
+}
+h2{
+	color: #4E9FC9;
+	font-weight: 700;
+	font-size: 45px;
+}
+h3{
+	color: #FF6031;
+	font-weight: bolder;
+}
+.btn-inverse{
+	background-color: #787878;
+	color: white;
+	border-radius: 50%;
+}
+.btn{
+	padding:3px 12px !important;
+	font-size: 23px;
+}
+.icon-linked{
+	display: inline-block;
+	vertical-align: top;
+	padding:5px 10px;
+	font-size: 18px;
+	border-radius: 50%;
+	color:white;
+	background:#0077B5;
+}
+#equipo{
+	text-align: center !important;
+}
+p{
+	color: #787878;
+	font-weight: bold;
+	font-size: 25px;
+}
+a{
+	color: #FF6031;
+	font-weight: 700;
+}
+.contenido{
+	min-height: 100vh;
+	padding-top: 15vh;
+}
+#inicio{
+	text-align: center;
+	padding-top: 30vh;
+	align-items: center;
+}
+#quienes{
+	padding-top: 20vh;;
+}
+.pad-img{
+	padding-top: 25vh;
+}
+#patrocinadores a{
+	text-align: center;			
+}
+.btn-footer{	
+	background-color: #FFBE31;
+	color: white;
+	font-weight: 500;
+	font-size: 20px;
+}
+
+#patrocinadores .col-md-12{
+	text-align:center;
+	display:block;
+}
+
+
+.navbar-default{
+	background-color: white;
+}
+.navbar-default a{
+	color: #FF6031 !important;
+	font-size: 22px;
+}
+
+.navbar-nav{
+	padding-top: 0 !important;
+	margin-top: 0 !important;
+}
+
+
+.navbar .navbar-nav > li > a {
+
+	line-height: 55px;
+}
+
+.pad-texto{
+	padding-top: 7%;
+}
+
+#navbar-glucolib{
+	padding-right: 30px;
+}
+.navbar-header {
+    float: left;
+    padding: 15px;
+}
+.navbar-brand {float:none;}
+
+.facebook{
+	color: #3b5998;
+}
+
+.twitter{
+	color: #00aced;
+}
+
+.linkedin{
+	color: #0077B5;
+}
