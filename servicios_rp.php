@@ -3,7 +3,7 @@ ini_set('display_errors', true );
 ini_set('track_errors', 'on');
 		
 		$ventas = '';
-		$url = 'http://www.digital-realplaza.com:9797/middleware/api/middleware/1?method=metodMerListarVenta&json={"pi_Inmueble":16,"ps_Local":"LA-101","ps_Periodo":"201704"}';
+		$url = '';
 		echo '<pre>';
 		print_r($url);
 		echo '</pre>';
